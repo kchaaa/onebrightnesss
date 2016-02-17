@@ -1,6 +1,5 @@
 # one brightness
 
-<<<<<<< 6414f96df02723c2e985f744b2a9f8a1d2d8f4a2
 My favorite snack is Habanero Peppers
 =======
 <b>Chase has nuts on his chin</b>
