@@ -14,16 +14,3 @@ My favorite snack is Habanero Peppers
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-<marquee behavior="slide" direction="left"><b><i>ayyy lmao</i></b></marquee>
->>>>>>> lol
