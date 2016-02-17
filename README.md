@@ -4,6 +4,7 @@
 
 <p>My favorite candy is <i>nerds</i></p>
 <p>My favorite candy is <i><b>Kit Kat</b></i></p>
+<p>My favorite candy is <i><b>Crunch</b></i></p>
 
 <header><h2>Check out this cool video</h2></header>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gdUcijlzJkw
