@@ -14,6 +14,7 @@ My favorite snack is Habanero Peppers
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 My Name is <i><b>Chase</b></i> and I like Turtles.
+![turtles](http://i1.kym-cdn.com/photos/images/newsfeed/000/181/190/tumblr_lsdptrZkpi1qh6cr0o4_r1_500.gif)
 
 ```java
 
