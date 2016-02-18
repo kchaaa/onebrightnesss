@@ -77,6 +77,43 @@ CHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCH
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # THE LIFE OF PEMA 
 
 ![Album Cover](http://i.imgur.com/gRqLhIz.png)
