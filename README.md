@@ -3,7 +3,8 @@
 
 
 
-My Name is <i><b>Chase</b></i> and I like Turtles.
+<p>My Name is <i><b>Chase</b></i> and I like Turtles.</p>
+![turtles](http://i1.kym-cdn.com/photos/images/newsfeed/000/181/190/tumblr_lsdptrZkpi1qh6cr0o4_r1_500.gif)
 
 
 
@@ -141,4 +142,8 @@ My name is
 # NATHAN
 and I like
 # TARDIGRADES
+<<<<<<< HEAD
 >>>>>>> dc7babe0f25d7885d77a8f6add7881f4791fac16
+=======
+![alt tag](![alt tag](http://orig03.deviantart.net/7c9f/f/2009/316/a/2/attack_of_the_tardigrades_by_ramul.jpg)
+>>>>>>> f70250a721b05f1720e7d5d1c93b9b262f50066d
