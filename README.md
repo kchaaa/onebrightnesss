@@ -7,110 +7,6 @@
 ![turtles](http://i1.kym-cdn.com/photos/images/newsfeed/000/181/190/tumblr_lsdptrZkpi1qh6cr0o4_r1_500.gif)
 
 
-
-
-Nathan's Paragraph :
-CHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHINCHASE HAS NUTZ ON HIS CHIN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # THE LIFE OF PEMA 
 
 ![Album Cover](http://i.imgur.com/gRqLhIz.png)
@@ -138,5 +34,5 @@ and I like
 # TARDIGRADES
 
 
-![alt tag](![alt tag](http://orig03.deviantart.net/7c9f/f/2009/316/a/2/attack_of_the_tardigrades_by_ramul.jpg)
+![alt tag](http://orig03.deviantart.net/7c9f/f/2009/316/a/2/attack_of_the_tardigrades_by_ramul.jpg)
 
